@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "checks": 41886,
+  "point_cases": 3024,
+  "shortlist_cases": 504,
+  "metric_rows": 6,
+  "independence": "Separate native-flux/ordinal-date removals and exact point,shortlist and metric reconstruction;no analysis-helper imports",
+  "limits": "Fixed artificial common-calendar removals,not a calibrated source-missingness probability"
+}
