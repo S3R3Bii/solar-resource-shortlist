@@ -1,0 +1,1356 @@
+[
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "cohort": "west",
+      "config": "persistence",
+      "field": "mean_regret"
+    },
+    "text": "0.015607",
+    "page": 2,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "cohort": "west",
+      "config": "persistence",
+      "field": "mean_mae"
+    },
+    "text": "0.068953",
+    "page": 2,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "cohort": "west",
+      "config": "persistence",
+      "field": "mean_overlap"
+    },
+    "text": "83.3",
+    "page": 2,
+    "fmt": ".1f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "cohort": "west",
+      "config": "mean3",
+      "field": "mean_regret"
+    },
+    "text": "0.005163",
+    "page": 2,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "cohort": "west",
+      "config": "mean3",
+      "field": "mean_mae"
+    },
+    "text": "0.054657",
+    "page": 2,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "cohort": "west",
+      "config": "mean3",
+      "field": "mean_overlap"
+    },
+    "text": "91.7",
+    "page": 2,
+    "fmt": ".1f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "cohort": "west",
+      "config": "mean5",
+      "field": "mean_regret"
+    },
+    "text": "0.005163",
+    "page": 2,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "cohort": "west",
+      "config": "mean5",
+      "field": "mean_mae"
+    },
+    "text": "0.054295",
+    "page": 2,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "cohort": "west",
+      "config": "mean5",
+      "field": "mean_overlap"
+    },
+    "text": "91.7",
+    "page": 2,
+    "fmt": ".1f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "cohort": "west",
+      "config": "mean10",
+      "field": "mean_regret"
+    },
+    "text": "0.005163",
+    "page": 2,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "cohort": "west",
+      "config": "mean10",
+      "field": "mean_mae"
+    },
+    "text": "0.051642",
+    "page": 2,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "cohort": "west",
+      "config": "mean10",
+      "field": "mean_overlap"
+    },
+    "text": "91.7",
+    "page": 2,
+    "fmt": ".1f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "cohort": "west",
+      "config": "median10",
+      "field": "mean_regret"
+    },
+    "text": "0.005163",
+    "page": 2,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "cohort": "west",
+      "config": "median10",
+      "field": "mean_mae"
+    },
+    "text": "0.052497",
+    "page": 2,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "cohort": "west",
+      "config": "median10",
+      "field": "mean_overlap"
+    },
+    "text": "91.7",
+    "page": 2,
+    "fmt": ".1f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "cohort": "west",
+      "config": "q20_10",
+      "field": "mean_regret"
+    },
+    "text": "0.005163",
+    "page": 2,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "cohort": "west",
+      "config": "q20_10",
+      "field": "mean_mae"
+    },
+    "text": "0.072128",
+    "page": 2,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "development",
+      "cohort": "west",
+      "config": "q20_10",
+      "field": "mean_overlap"
+    },
+    "text": "91.7",
+    "page": 2,
+    "fmt": ".1f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "west",
+      "config": "persistence",
+      "field": "mean_regret"
+    },
+    "text": "0.000000",
+    "page": 3,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "west",
+      "config": "persistence",
+      "field": "mean_mae"
+    },
+    "text": "0.105324",
+    "page": 3,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "west",
+      "config": "persistence",
+      "field": "mean_overlap"
+    },
+    "text": "100.0",
+    "page": 3,
+    "fmt": ".1f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "west",
+      "config": "mean3",
+      "field": "mean_regret"
+    },
+    "text": "0.000000",
+    "page": 3,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "west",
+      "config": "mean3",
+      "field": "mean_mae"
+    },
+    "text": "0.081787",
+    "page": 3,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "west",
+      "config": "mean3",
+      "field": "mean_overlap"
+    },
+    "text": "100.0",
+    "page": 3,
+    "fmt": ".1f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "west",
+      "config": "mean5",
+      "field": "mean_regret"
+    },
+    "text": "0.000000",
+    "page": 3,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "west",
+      "config": "mean5",
+      "field": "mean_mae"
+    },
+    "text": "0.070974",
+    "page": 3,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "west",
+      "config": "mean5",
+      "field": "mean_overlap"
+    },
+    "text": "100.0",
+    "page": 3,
+    "fmt": ".1f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "west",
+      "config": "mean10",
+      "field": "mean_regret"
+    },
+    "text": "0.000000",
+    "page": 3,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "west",
+      "config": "mean10",
+      "field": "mean_mae"
+    },
+    "text": "0.063264",
+    "page": 3,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "west",
+      "config": "mean10",
+      "field": "mean_overlap"
+    },
+    "text": "100.0",
+    "page": 3,
+    "fmt": ".1f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "west",
+      "config": "median10",
+      "field": "mean_regret"
+    },
+    "text": "0.000000",
+    "page": 3,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "west",
+      "config": "median10",
+      "field": "mean_mae"
+    },
+    "text": "0.062065",
+    "page": 3,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "west",
+      "config": "median10",
+      "field": "mean_overlap"
+    },
+    "text": "100.0",
+    "page": 3,
+    "fmt": ".1f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "west",
+      "config": "q20_10",
+      "field": "mean_regret"
+    },
+    "text": "0.000000",
+    "page": 3,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "west",
+      "config": "q20_10",
+      "field": "mean_mae"
+    },
+    "text": "0.075248",
+    "page": 3,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "west",
+      "config": "q20_10",
+      "field": "mean_overlap"
+    },
+    "text": "100.0",
+    "page": 3,
+    "fmt": ".1f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "east",
+      "config": "persistence",
+      "field": "mean_regret"
+    },
+    "text": "0.022373",
+    "page": 3,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "east",
+      "config": "persistence",
+      "field": "mean_mae"
+    },
+    "text": "0.098910",
+    "page": 3,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "east",
+      "config": "persistence",
+      "field": "mean_overlap"
+    },
+    "text": "71.4",
+    "page": 3,
+    "fmt": ".1f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "east",
+      "config": "mean3",
+      "field": "mean_regret"
+    },
+    "text": "0.017327",
+    "page": 3,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "east",
+      "config": "mean3",
+      "field": "mean_mae"
+    },
+    "text": "0.085820",
+    "page": 3,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "east",
+      "config": "mean3",
+      "field": "mean_overlap"
+    },
+    "text": "71.4",
+    "page": 3,
+    "fmt": ".1f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "east",
+      "config": "mean5",
+      "field": "mean_regret"
+    },
+    "text": "0.005710",
+    "page": 3,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "east",
+      "config": "mean5",
+      "field": "mean_mae"
+    },
+    "text": "0.068806",
+    "page": 3,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "east",
+      "config": "mean5",
+      "field": "mean_overlap"
+    },
+    "text": "78.6",
+    "page": 3,
+    "fmt": ".1f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "east",
+      "config": "mean10",
+      "field": "mean_regret"
+    },
+    "text": "0.005710",
+    "page": 3,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "east",
+      "config": "mean10",
+      "field": "mean_mae"
+    },
+    "text": "0.063032",
+    "page": 3,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "east",
+      "config": "mean10",
+      "field": "mean_overlap"
+    },
+    "text": "78.6",
+    "page": 3,
+    "fmt": ".1f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "east",
+      "config": "median10",
+      "field": "mean_regret"
+    },
+    "text": "0.005710",
+    "page": 3,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "east",
+      "config": "median10",
+      "field": "mean_mae"
+    },
+    "text": "0.064900",
+    "page": 3,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "east",
+      "config": "median10",
+      "field": "mean_overlap"
+    },
+    "text": "78.6",
+    "page": 3,
+    "fmt": ".1f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "east",
+      "config": "q20_10",
+      "field": "mean_regret"
+    },
+    "text": "0.005710",
+    "page": 3,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "east",
+      "config": "q20_10",
+      "field": "mean_mae"
+    },
+    "text": "0.114897",
+    "page": 3,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "east",
+      "config": "q20_10",
+      "field": "mean_overlap"
+    },
+    "text": "78.6",
+    "page": 3,
+    "fmt": ".1f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "west",
+      "duration": 1,
+      "field": "shortlist_changes"
+    },
+    "text": "0",
+    "page": 4,
+    "fmt": ".0f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "west",
+      "duration": 1,
+      "field": "shortlist_cases"
+    },
+    "text": "84",
+    "page": 4,
+    "fmt": ".0f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "west",
+      "duration": 1,
+      "field": "mean_absolute_bias"
+    },
+    "text": "0.004925",
+    "page": 4,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "west",
+      "duration": 1,
+      "field": "max_absolute_bias"
+    },
+    "text": "0.014136",
+    "page": 4,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "west",
+      "duration": 1,
+      "field": "mean_intact_regret"
+    },
+    "text": "0.000000",
+    "page": 4,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "west",
+      "duration": 7,
+      "field": "shortlist_changes"
+    },
+    "text": "0",
+    "page": 4,
+    "fmt": ".0f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "west",
+      "duration": 7,
+      "field": "shortlist_cases"
+    },
+    "text": "84",
+    "page": 4,
+    "fmt": ".0f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "west",
+      "duration": 7,
+      "field": "mean_absolute_bias"
+    },
+    "text": "0.033486",
+    "page": 4,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "west",
+      "duration": 7,
+      "field": "max_absolute_bias"
+    },
+    "text": "0.072137",
+    "page": 4,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "west",
+      "duration": 7,
+      "field": "mean_intact_regret"
+    },
+    "text": "0.000000",
+    "page": 4,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "west",
+      "duration": 30,
+      "field": "shortlist_changes"
+    },
+    "text": "4",
+    "page": 4,
+    "fmt": ".0f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "west",
+      "duration": 30,
+      "field": "shortlist_cases"
+    },
+    "text": "84",
+    "page": 4,
+    "fmt": ".0f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "west",
+      "duration": 30,
+      "field": "mean_absolute_bias"
+    },
+    "text": "0.144269",
+    "page": 4,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "west",
+      "duration": 30,
+      "field": "max_absolute_bias"
+    },
+    "text": "0.290219",
+    "page": 4,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "west",
+      "duration": 30,
+      "field": "mean_intact_regret"
+    },
+    "text": "0.000395",
+    "page": 4,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "east",
+      "duration": 1,
+      "field": "shortlist_changes"
+    },
+    "text": "1",
+    "page": 4,
+    "fmt": ".0f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "east",
+      "duration": 1,
+      "field": "shortlist_cases"
+    },
+    "text": "84",
+    "page": 4,
+    "fmt": ".0f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "east",
+      "duration": 1,
+      "field": "mean_absolute_bias"
+    },
+    "text": "0.004626",
+    "page": 4,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "east",
+      "duration": 1,
+      "field": "max_absolute_bias"
+    },
+    "text": "0.013239",
+    "page": 4,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "east",
+      "duration": 1,
+      "field": "mean_intact_regret"
+    },
+    "text": "0.000011",
+    "page": 4,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "east",
+      "duration": 7,
+      "field": "shortlist_changes"
+    },
+    "text": "3",
+    "page": 4,
+    "fmt": ".0f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "east",
+      "duration": 7,
+      "field": "shortlist_cases"
+    },
+    "text": "84",
+    "page": 4,
+    "fmt": ".0f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "east",
+      "duration": 7,
+      "field": "mean_absolute_bias"
+    },
+    "text": "0.030619",
+    "page": 4,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "east",
+      "duration": 7,
+      "field": "max_absolute_bias"
+    },
+    "text": "0.070130",
+    "page": 4,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "east",
+      "duration": 7,
+      "field": "mean_intact_regret"
+    },
+    "text": "0.000034",
+    "page": 4,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "east",
+      "duration": 30,
+      "field": "shortlist_changes"
+    },
+    "text": "6",
+    "page": 4,
+    "fmt": ".0f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "east",
+      "duration": 30,
+      "field": "shortlist_cases"
+    },
+    "text": "84",
+    "page": 4,
+    "fmt": ".0f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "east",
+      "duration": 30,
+      "field": "mean_absolute_bias"
+    },
+    "text": "0.134706",
+    "page": 4,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "east",
+      "duration": 30,
+      "field": "max_absolute_bias"
+    },
+    "text": "0.289753",
+    "page": 4,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "east",
+      "duration": 30,
+      "field": "mean_intact_regret"
+    },
+    "text": "0.000241",
+    "page": 4,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "stress_year",
+      "cohort": "west",
+      "year": 2017,
+      "field": "changes"
+    },
+    "text": "0",
+    "page": 4,
+    "fmt": ".0f"
+  },
+  {
+    "query": {
+      "kind": "stress_year",
+      "cohort": "west",
+      "year": 2017,
+      "field": "mean_absolute_bias"
+    },
+    "text": "0.1482",
+    "page": 4,
+    "fmt": ".4f"
+  },
+  {
+    "query": {
+      "kind": "stress_year",
+      "cohort": "east",
+      "year": 2017,
+      "field": "changes"
+    },
+    "text": "0",
+    "page": 4,
+    "fmt": ".0f"
+  },
+  {
+    "query": {
+      "kind": "stress_year",
+      "cohort": "east",
+      "year": 2017,
+      "field": "mean_absolute_bias"
+    },
+    "text": "0.1350",
+    "page": 4,
+    "fmt": ".4f"
+  },
+  {
+    "query": {
+      "kind": "stress_year",
+      "cohort": "west",
+      "year": 2018,
+      "field": "changes"
+    },
+    "text": "0",
+    "page": 4,
+    "fmt": ".0f"
+  },
+  {
+    "query": {
+      "kind": "stress_year",
+      "cohort": "west",
+      "year": 2018,
+      "field": "mean_absolute_bias"
+    },
+    "text": "0.1477",
+    "page": 4,
+    "fmt": ".4f"
+  },
+  {
+    "query": {
+      "kind": "stress_year",
+      "cohort": "east",
+      "year": 2018,
+      "field": "changes"
+    },
+    "text": "5",
+    "page": 4,
+    "fmt": ".0f"
+  },
+  {
+    "query": {
+      "kind": "stress_year",
+      "cohort": "east",
+      "year": 2018,
+      "field": "mean_absolute_bias"
+    },
+    "text": "0.1404",
+    "page": 4,
+    "fmt": ".4f"
+  },
+  {
+    "query": {
+      "kind": "stress_year",
+      "cohort": "west",
+      "year": 2019,
+      "field": "changes"
+    },
+    "text": "0",
+    "page": 4,
+    "fmt": ".0f"
+  },
+  {
+    "query": {
+      "kind": "stress_year",
+      "cohort": "west",
+      "year": 2019,
+      "field": "mean_absolute_bias"
+    },
+    "text": "0.1465",
+    "page": 4,
+    "fmt": ".4f"
+  },
+  {
+    "query": {
+      "kind": "stress_year",
+      "cohort": "east",
+      "year": 2019,
+      "field": "changes"
+    },
+    "text": "0",
+    "page": 4,
+    "fmt": ".0f"
+  },
+  {
+    "query": {
+      "kind": "stress_year",
+      "cohort": "east",
+      "year": 2019,
+      "field": "mean_absolute_bias"
+    },
+    "text": "0.1331",
+    "page": 4,
+    "fmt": ".4f"
+  },
+  {
+    "query": {
+      "kind": "stress_year",
+      "cohort": "west",
+      "year": 2020,
+      "field": "changes"
+    },
+    "text": "4",
+    "page": 4,
+    "fmt": ".0f"
+  },
+  {
+    "query": {
+      "kind": "stress_year",
+      "cohort": "west",
+      "year": 2020,
+      "field": "mean_absolute_bias"
+    },
+    "text": "0.1497",
+    "page": 4,
+    "fmt": ".4f"
+  },
+  {
+    "query": {
+      "kind": "stress_year",
+      "cohort": "east",
+      "year": 2020,
+      "field": "changes"
+    },
+    "text": "0",
+    "page": 4,
+    "fmt": ".0f"
+  },
+  {
+    "query": {
+      "kind": "stress_year",
+      "cohort": "east",
+      "year": 2020,
+      "field": "mean_absolute_bias"
+    },
+    "text": "0.1395",
+    "page": 4,
+    "fmt": ".4f"
+  },
+  {
+    "query": {
+      "kind": "stress_year",
+      "cohort": "west",
+      "year": 2021,
+      "field": "changes"
+    },
+    "text": "0",
+    "page": 4,
+    "fmt": ".0f"
+  },
+  {
+    "query": {
+      "kind": "stress_year",
+      "cohort": "west",
+      "year": 2021,
+      "field": "mean_absolute_bias"
+    },
+    "text": "0.1367",
+    "page": 4,
+    "fmt": ".4f"
+  },
+  {
+    "query": {
+      "kind": "stress_year",
+      "cohort": "east",
+      "year": 2021,
+      "field": "changes"
+    },
+    "text": "0",
+    "page": 4,
+    "fmt": ".0f"
+  },
+  {
+    "query": {
+      "kind": "stress_year",
+      "cohort": "east",
+      "year": 2021,
+      "field": "mean_absolute_bias"
+    },
+    "text": "0.1255",
+    "page": 4,
+    "fmt": ".4f"
+  },
+  {
+    "query": {
+      "kind": "stress_year",
+      "cohort": "west",
+      "year": 2022,
+      "field": "changes"
+    },
+    "text": "0",
+    "page": 4,
+    "fmt": ".0f"
+  },
+  {
+    "query": {
+      "kind": "stress_year",
+      "cohort": "west",
+      "year": 2022,
+      "field": "mean_absolute_bias"
+    },
+    "text": "0.1339",
+    "page": 4,
+    "fmt": ".4f"
+  },
+  {
+    "query": {
+      "kind": "stress_year",
+      "cohort": "east",
+      "year": 2022,
+      "field": "changes"
+    },
+    "text": "1",
+    "page": 4,
+    "fmt": ".0f"
+  },
+  {
+    "query": {
+      "kind": "stress_year",
+      "cohort": "east",
+      "year": 2022,
+      "field": "mean_absolute_bias"
+    },
+    "text": "0.1292",
+    "page": 4,
+    "fmt": ".4f"
+  },
+  {
+    "query": {
+      "kind": "stress_year",
+      "cohort": "west",
+      "year": 2023,
+      "field": "changes"
+    },
+    "text": "0",
+    "page": 4,
+    "fmt": ".0f"
+  },
+  {
+    "query": {
+      "kind": "stress_year",
+      "cohort": "west",
+      "year": 2023,
+      "field": "mean_absolute_bias"
+    },
+    "text": "0.1472",
+    "page": 4,
+    "fmt": ".4f"
+  },
+  {
+    "query": {
+      "kind": "stress_year",
+      "cohort": "east",
+      "year": 2023,
+      "field": "changes"
+    },
+    "text": "0",
+    "page": 4,
+    "fmt": ".0f"
+  },
+  {
+    "query": {
+      "kind": "stress_year",
+      "cohort": "east",
+      "year": 2023,
+      "field": "mean_absolute_bias"
+    },
+    "text": "0.1403",
+    "page": 4,
+    "fmt": ".4f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "west",
+      "config": "mean10",
+      "field": "mean_regret"
+    },
+    "text": "0.000000",
+    "page": 0,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "metric",
+      "stage": "held",
+      "cohort": "east",
+      "config": "mean10",
+      "field": "mean_regret"
+    },
+    "text": "0.005710",
+    "page": 0,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "west",
+      "duration": 30,
+      "field": "shortlist_changes"
+    },
+    "text": "4",
+    "page": 0,
+    "fmt": ".0f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "east",
+      "duration": 30,
+      "field": "shortlist_changes"
+    },
+    "text": "6",
+    "page": 0,
+    "fmt": ".0f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "west",
+      "duration": 30,
+      "field": "mean_absolute_bias"
+    },
+    "text": "0.144269",
+    "page": 0,
+    "fmt": ".6f"
+  },
+  {
+    "query": {
+      "kind": "stress",
+      "cohort": "east",
+      "duration": 30,
+      "field": "mean_absolute_bias"
+    },
+    "text": "0.134706",
+    "page": 0,
+    "fmt": ".6f"
+  }
+]
