@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "stage": "held",
+  "checks": 7884,
+  "prediction_rows": 504,
+  "annual_rows": 84,
+  "metric_rows": 12,
+  "independence": "Separate history-year enumeration,order statistics,midranks,finite oracle/regret and selection reconstruction;no analysis-helper imports",
+  "limits": "Retrospective current-source finite cohort,not original-vintage or ground-station validation"
+}

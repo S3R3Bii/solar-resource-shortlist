@@ -1,7 +1,7 @@
 {
-  "timestamp_utc": "2026-10-30T18:07:30.123541+00:00",
+  "timestamp_utc": "2026-10-30T18:08:28.246695+00:00",
   "status": "PASS_BOUNDED_SCAN",
-  "files_checked": 35,
+  "files_checked": 42,
   "scope": "Exact staged Git index bytes; decompressed text; forbidden paths/extensions, high-confidence key and private machine path patterns; local Markdown links. Image/PDF contents require separate visual/source review. This is not universal secret detection.",
   "findings": [],
   "sha256": {
@@ -23,7 +23,11 @@
     "results/development_metrics.csv": "396dcbe49ef07b0b2c63bdafe0715828c7769cfb3c0f4f22ada2521089fc3c2e",
     "results/development_predictions.csv": "3958558fc2cf72595b2d95da88179701b91ed8ceb0097e1589603219af76f9ae",
     "results/frozen_dependencies.json": "c7dd740e65faa179c4cb630f214cbf89c0ff649b78c15513fd141d10e4f9ab9c",
+    "results/held_annual_scores.csv": "c4f135b2a7a066d68939f9584ca967df44b53d9054bb84112dc9e187908fbdab",
+    "results/held_metrics.csv": "35ae34854f1510e2657fa73430e6368542bef1a8e9401ef9fce86731eab21605",
+    "results/held_predictions.csv": "a053c06273ca0aa2762bcc5679be114d388f76ab3df38ae9acbb5814f9e7c627",
     "results/independent_development.json": "77b993b27b6d8a6f542e66b87873336359baa5afcb60f737888c2b4ca569b4db",
+    "results/independent_held.json": "22b521f5a15b6949d7059e8406707dc90287e053368ed8aac6f1b5bbb9cbd837",
     "results/independent_inputs.json": "a92b68ff00c770691023ac797f981e5fcc118cac3b231aadc82e036dc04adf7e",
     "results/monthly_coverage.csv": "e3b98fa54ffe6b70bbc206269388eaee9f0a4c07c8880943c8f8e5e6cc972b26",
     "results/point_eligibility.csv": "61f67234fc179f9613f5d96fd242ac17a058c3ac6d3a50edc50b37caa0ec5bd9",
@@ -35,10 +39,13 @@
     "src/prepare_inputs.py": "f662dacb5bef31c75829fcb3f67aaf7ca5910fca8b8e15b221f69a3b34b09508",
     "src/project_source.py": "48045636c059e8667849c619a03d17a7b929151d8bffa9874ba99b5e09647884",
     "src/run_analysis.py": "2b49a67fd058c16ef2761b7b5cfaef2c0d266445a1446a44e284ddad20d57db6",
+    "src/stress.py": "fbade82ab0205935d6bbdb95dc17f9f1ca30cfc9d54fdddea4e274d15601abc0",
     "src/verify_inputs.py": "54b142ad308ae3f8107efa19df946dc0a24823560106584858a2dbf23b325e87",
     "src/verify_results.py": "f148860e56ad6d2b82d85be2ed32464faa5cbe77105ced3969a0747b8e41aa83",
     "src/verify_source.py": "e3a3e7d34f8e75ac9889c3c38e6224c589f72980eab02020cd2c2d4a1a1364d6",
-    "tests/test_rules.py": "109a55ff9fcbd37ae6b42fdda682ea8a06360747913fc336ffeb1c3fd359bc5a"
+    "src/verify_stress.py": "85a6d04c9ff16143728f9a22862c99f5790d6a3322dd830bbbef07112416506f",
+    "tests/test_rules.py": "109a55ff9fcbd37ae6b42fdda682ea8a06360747913fc336ffeb1c3fd359bc5a",
+    "tests/test_stress.py": "d7859584a9d34c287453382ffb66eef7e48d74a4fd66588dacd756fbf0f476bb"
   },
   "raw_source_members_excluded": true,
   "unapproved_manuscripts_excluded": true,
