@@ -5,6 +5,6 @@
   "annual_rows": 276,
   "monthly_rows": 3312,
   "eligible_points": 12,
-  "independence": "Separate SQL key/calendar groups,Decimal native-flux integration andfull export reconstruction;no analysis-helper imports",
+  "independence": "Separate SQL key/calendar groups,Decimal native-flux integration and full export reconstruction;no analysis-helper imports",
   "limits": "Source grid/date/coverage arithmetic,not source accuracy,station validation or parcel suitability"
 }

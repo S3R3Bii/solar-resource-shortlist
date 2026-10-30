@@ -698,6 +698,6 @@
     "factor_exact": "3/125",
     "rationale": "24hours per UTC day/1000W per kW;UNIT_BINDING.md documents pre-score confirmation"
   },
-  "attribution": "NASA Langley Research Center POWER project,funded through NASA Earth Science Division;Daily APIv2.10.1;accessed30October2026",
+  "attribution": "NASA Langley Research Center POWER project, funded through NASA Earth Science Division;Daily API v2.10.1; accessed 30 October 2026",
   "limits": "Requested grid points,not independent measured stations or physical parcels;current retrospective source,not original delivery vintages;no plant output/finance/climate-causality claim"
 }

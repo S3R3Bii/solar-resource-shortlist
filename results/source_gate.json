@@ -13,6 +13,6 @@
   "complete_point_years": 276,
   "unavailable_daily_rows": 0,
   "alias_points": 0,
-  "grid_evidence": "Fixed1degree-center requested coordinates andreturned coordinate/source bindings;nominal cell bounds derive from published1degree grid;no internal-source cell ID or independent station accuracy claimed",
-  "scope": "Mean ofavailable valid daily irradiation,not an imputed annualtotal;fixed unweighted point cohort,not parcels/national sample"
+  "grid_evidence": "Fixed 1 degree center requested coordinates and returned coordinate/source bindings;nominal cell bounds derive from published 1 degree grid;no internal-source cell ID or independent station accuracy claimed",
+  "scope": "Mean of available valid daily irradiation,not an imputed annual total;fixed unweighted point cohort,not parcels/national sample"
 }
