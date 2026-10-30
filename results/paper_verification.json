@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "checks": 287,
+  "displayed_values": 118,
+  "pages": 6,
+  "scope": "Independent native-flux stress reconstruction,per-point forecast arithmetic,display presence,claim qualifiers and scoped hashes;visual review is separate"
+}

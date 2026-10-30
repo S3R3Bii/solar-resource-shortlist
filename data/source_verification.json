@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "mode": "PRIVATE_ORIGINALS_PANDAS_SQLITE",
+  "checks": 806558,
+  "source_rows": 100800,
+  "scope": "All selected original values,calendar,metadata and exact conversion when originals supplied;not station accuracy or site feasibility"
+}

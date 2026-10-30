@@ -1,0 +1,45 @@
+{
+  "selected": "mean10",
+  "criterion": "Mean annual western 2011\u20132016 shortlist regret,then all-point MAE,then fixed candidate order",
+  "candidate_order": [
+    "persistence",
+    "mean3",
+    "mean5",
+    "mean10",
+    "median10",
+    "q20_10"
+  ],
+  "all_candidates": [
+    {
+      "config": "mean10",
+      "regret_exact": "94227/18250000",
+      "mae_exact": "646773697/12524062500"
+    },
+    {
+      "config": "median10",
+      "regret_exact": "94227/18250000",
+      "mae_exact": "1051956049/20038500000"
+    },
+    {
+      "config": "mean5",
+      "regret_exact": "94227/18250000",
+      "mae_exact": "302220849/5566250000"
+    },
+    {
+      "config": "mean3",
+      "regret_exact": "94227/18250000",
+      "mae_exact": "3285727979/60115500000"
+    },
+    {
+      "config": "q20_10",
+      "regret_exact": "94227/18250000",
+      "mae_exact": "154169/2137440"
+    },
+    {
+      "config": "persistence",
+      "regret_exact": "104245517/6679500000",
+      "mae_exact": "276341311/4007700000"
+    }
+  ],
+  "held_tuned": false
+}

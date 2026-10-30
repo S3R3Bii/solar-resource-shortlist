@@ -1,0 +1,151 @@
+{
+  "timestamp_utc": "2026-10-30T18:16:05.844745+00:00",
+  "deliverable": "Study29 solar-resource-shortlist release candidate",
+  "parent_revision": "d955bc2288084cf3af049e2907ad6c156032e047",
+  "sha256": {
+    "README.md": "71df95c03ec820764aed44839bbbccb7a058cd0385363bd0b98bb1b8e702fcc8",
+    "PROTOCOL.md": "2a20184291135f4c24093e35f5db991d5b7eedc011955c8211a1ebb5b80109f2",
+    "UNIT_BINDING.md": "2af077f4e74aa6711cb28dc62c8a3db1ee4f0ef01e5e1c93c62bca6b97a8aa63",
+    "DATA_RIGHTS.md": "a66d724a9c385178263ec44617a8371068ffa46071757d4ae48625ebc76d5118",
+    "requirements.txt": "09a0e3aa2905c7c86810e129241557a3d6c746ffda0274d7b62fd37e62a45189",
+    ".github/workflows/reproduce.yml": "412a7a898eb972e6a75e9ddf9f5a1d4f3ac5aa6df0095412ac21ab353ecd3a2c",
+    "src/capture_source.py": "595301e818e1280f6575b6656aa4a8bb1c7881a32187c9d0e78a02439321ac9a",
+    "src/freeze_proof.py": "8ce25906f41ae8e421c3d9e4b104bfcbf6f22ea0ed40ce76927a6b1f635f621d",
+    "src/make_figures.py": "21970076db4cab712804e919678b7d96d78f2cbf7dc393ae6767d6f6c2d5b60b",
+    "src/model.py": "41d0e921198bcafcf1ce2f5305a355931b2ff48d0c1d31e1a4898290adff1b5f",
+    "src/prepare_inputs.py": "f662dacb5bef31c75829fcb3f67aaf7ca5910fca8b8e15b221f69a3b34b09508",
+    "src/project_source.py": "48045636c059e8667849c619a03d17a7b929151d8bffa9874ba99b5e09647884",
+    "src/reproduce.py": "b95c435c6d3fd14fef720708d266dc7aa7c4539b40f654c74ee1084d2043bf43",
+    "src/run_analysis.py": "2b49a67fd058c16ef2761b7b5cfaef2c0d266445a1446a44e284ddad20d57db6",
+    "src/stress.py": "fbade82ab0205935d6bbdb95dc17f9f1ca30cfc9d54fdddea4e274d15601abc0",
+    "src/verify_canonical_git.py": "2f6a170317d1fae7038e43d81aa1212867433604cd5ce9ab8d7a2ac28bf2fd72",
+    "src/verify_figures.py": "7a5c26f0f78772a4380d598f56554697820c6b6b71a05f1d820ae6165c5b58bf",
+    "src/verify_inputs.py": "54b142ad308ae3f8107efa19df946dc0a24823560106584858a2dbf23b325e87",
+    "src/verify_paper.py": "fa25d9e4b09581a86d5056d35e9ed82fc2a08d53a2a4f9379093fd59757bff4b",
+    "src/verify_results.py": "f148860e56ad6d2b82d85be2ed32464faa5cbe77105ced3969a0747b8e41aa83",
+    "src/verify_source.py": "e3a3e7d34f8e75ac9889c3c38e6224c589f72980eab02020cd2c2d4a1a1364d6",
+    "src/verify_stress.py": "85a6d04c9ff16143728f9a22862c99f5790d6a3322dd830bbbef07112416506f",
+    "tests/test_rules.py": "109a55ff9fcbd37ae6b42fdda682ea8a06360747913fc336ffeb1c3fd359bc5a",
+    "tests/test_stress.py": "d7859584a9d34c287453382ffb66eef7e48d74a4fd66588dacd756fbf0f476bb",
+    "data/planned_points.json": "5a1a863f40475b47247bc8ca094dfa9e49a67815f53221c2d4e26e67c0430e7f",
+    "data/records.csv.gz": "d194b7dcd04cb3da9a2f2f5f1434f1f5b663351e0ccb258a132feb3d7b93c214",
+    "data/source_manifest.json": "03608b303c3fccf155edca29e2e301a1992869f8f187e687f80c66a395c1abfe",
+    "data/source_requests.json": "7cc953118fd87037771c745c6f24adca7a4297fc56cedabfc1625f67db6cd0f7",
+    "data/source_verification.json": "1ce8d4f4bf4173fcddd3b0610f4b5e3ad67ee069ba3f21709dd18aa8e1fbe7c5",
+    "results/annual_inputs.csv": "7598c3134b3d89dc3d9b165180a0015f99ee33cf615554701d4c07ef1b78c230",
+    "results/development_annual_scores.csv": "a22d22e6dbe58622fbd8ea83c5431ff7b7274d67a067d90b7a3962583507f37d",
+    "results/development_metrics.csv": "396dcbe49ef07b0b2c63bdafe0715828c7769cfb3c0f4f22ada2521089fc3c2e",
+    "results/development_predictions.csv": "3958558fc2cf72595b2d95da88179701b91ed8ceb0097e1589603219af76f9ae",
+    "results/figure_verification.json": "cd4efc75920d1855ffd7d2e9dab7ad82c7be72c28077e3408d384d1a69aaaec3",
+    "results/frozen_dependencies.json": "c7dd740e65faa179c4cb630f214cbf89c0ff649b78c15513fd141d10e4f9ab9c",
+    "results/held_annual_scores.csv": "c4f135b2a7a066d68939f9584ca967df44b53d9054bb84112dc9e187908fbdab",
+    "results/held_metrics.csv": "35ae34854f1510e2657fa73430e6368542bef1a8e9401ef9fce86731eab21605",
+    "results/held_predictions.csv": "a053c06273ca0aa2762bcc5679be114d388f76ab3df38ae9acbb5814f9e7c627",
+    "results/independent_development.json": "77b993b27b6d8a6f542e66b87873336359baa5afcb60f737888c2b4ca569b4db",
+    "results/independent_held.json": "22b521f5a15b6949d7059e8406707dc90287e053368ed8aac6f1b5bbb9cbd837",
+    "results/independent_inputs.json": "a92b68ff00c770691023ac797f981e5fcc118cac3b231aadc82e036dc04adf7e",
+    "results/independent_stress.json": "0cf079d774216cac0547745c0fbbf94bde6c587cb7531da98517e4f2d038ec0f",
+    "results/monthly_coverage.csv": "e3b98fa54ffe6b70bbc206269388eaee9f0a4c07c8880943c8f8e5e6cc972b26",
+    "results/paper_verification.json": "22ed92b8846801d1672225ca8a94cf22fe06b05bf5466b019d1ab7f4a49124d7",
+    "results/point_eligibility.csv": "61f67234fc179f9613f5d96fd242ac17a058c3ac6d3a50edc50b37caa0ec5bd9",
+    "results/reproduction.json": "e4a26718cfb8fc8e6ad367489b43c96adbcc7057405ef746bd373cf9a851369b",
+    "results/selection.json": "4129117d483dc1a55292530d000eb8e1d2b5f2dd2e8b40253a30116ac27e8ce0",
+    "results/source_gate.json": "964645b6737d9ed8acaa1c2bb200112b71c726aa07c9e84123cb641825c28a37",
+    "results/stress_dependencies.json": "97d8bb81b211f1e747efb062f3c0ac91f1ac1634ffdbe4928d82b847395a82d1",
+    "results/stress_metrics.csv": "9abe944e9c5a5c65eed38c548c8f7938462f8b9d7c5ea3d99ca7de933aac9b9f",
+    "results/stress_point_cases.csv": "0c6d3bff9737d21c2b1955373fc2f0c93875e9ca19b349ec932cc3163e6bc488",
+    "results/stress_shortlists.csv": "290e85a55a66b23abeb792567dc1b93bcf5e318186be042b1895c4778de6f916",
+    "paper/main.tex": "6ba7c42f1627e6b15d60305fbb50c399e2e89057dd82071bca7063668bf19f2b",
+    "paper/manuscript.pdf": "51066a2aae284172ae986d97c20f947893f995d05cebdfdd193433a6cce0da1b",
+    "paper/images/grid_resource.pdf": "cd4d89fe776a3c8b5ad622aee791422382e8401cc62e9ec5e5954284d511b47d",
+    "paper/images/held_resource_errors.pdf": "5c5feac5151116539346af8b39d861c493f4651df1774e7dbd67f491e85c6183",
+    "paper/images/missing_day_sensitivity.pdf": "dc3f7673ae604f83e20506f86e34b9450da16735bc31b49e73cf4703c2d3ab85"
+  },
+  "criteria": [
+    {
+      "criterion": "Source,units and rights",
+      "state": "PASS",
+      "grade": 4,
+      "evidence": "24captured responses;native W/m2/UTC/SYN1DEG bindings;pre-score documented24/1000integration;NASA attribution/policy andminimal factual projection"
+    },
+    {
+      "criterion": "Coverage and fixed population",
+      "state": "PASS",
+      "grade": 4,
+      "evidence": "100800daily rows;276complete point-years;12eligible points;806558original-source and19451independent input checks;no station/parcel independence claim"
+    },
+    {
+      "criterion": "Development-only choice and outcome separation",
+      "state": "PASS",
+      "grade": 4,
+      "evidence": "28core dependencies97276d1 beforeheld;four stress hashesb6df76b beforestress;3394development and7884held checks;all6candidates retained"
+    },
+    {
+      "criterion": "Missing-day mechanism and practical limits",
+      "state": "PASS",
+      "grade": 4,
+      "evidence": "3024point/504shortlist cases;41886independent native-flux checks;1/7/30day fixedcommon-calendar removals;actual coverage complete;no outage probability/plant/finance claim"
+    },
+    {
+      "criterion": "Reproduction and artifacts",
+      "state": "PASS",
+      "grade": 4,
+      "evidence": "35finite fixtures;Python3.10/3.12.14 replay96847CSVfields/6JSONdocuments;48figurevalues/384coords/12mapcolors/9hashes;118paperdisplays/287checks"
+    },
+    {
+      "criterion": "Readable presentation",
+      "state": "PASS",
+      "grade": 4,
+      "evidence": "Three original figures andall six rendered pages inspected;short display title/subtitle;zero final TeXlayout/glyph warnings;practical first layer andadverse observations"
+    }
+  ],
+  "gates": {
+    "correctness": "PASS_BOUNDED_EVIDENCE",
+    "source_rights": "PASS_SCOPED_FACTUAL_SOURCE",
+    "privacy": "PENDING_FINAL_STAGED_CANONICAL_AUDIT",
+    "candidate_linux": "PENDING",
+    "main_linux": "PENDING",
+    "remote_tag": "PENDING"
+  },
+  "history": [
+    {
+      "round": 1,
+      "status": "PASS",
+      "changes": "Source-specific protocol/capture;documented returned unit beforequalification;independent source/input/development arithmetic"
+    },
+    {
+      "round": 2,
+      "status": "PASS_AFTER_LAYOUT_REPAIR",
+      "changes": "Frozen held application andseparate frozen stress;two-runtime original-preserving replay;original figures;initial title-width failure retained"
+    },
+    {
+      "round": 3,
+      "status": "PASS_LOCAL_RELEASE_PENDING",
+      "changes": "Short display title repaired; actual negated qualifier and PDF compound-hyphen line break checked; supporting artifact code formatted; fresh figure and paper arithmetic passed; no scientific output changed."
+    }
+  ],
+  "budget": {
+    "max_rounds": 3,
+    "max_active_review_minutes": 45,
+    "max_review_tool_calls": 60,
+    "rounds_used": 3,
+    "review_tool_batches_recorded": 23,
+    "exact_nested_call_count": "Not fully instrumented across composed calls;no invented exact count",
+    "review_start_utc": "2026-10-30T17:59:22Z",
+    "elapsed_wall_minutes_including_execution": 16.191972766666666,
+    "accounting": "Elapsed wall time andgrouped observations are workload proxies,not account consumption or billing;finish required release gates without extra tuning/cosmetic rounds"
+  },
+  "usage": {
+    "source": "Codex get_usage_limits",
+    "observed_utc": "2026-10-30T18:09:09Z",
+    "bucket": "codex",
+    "window_minutes": 10080,
+    "used_percent": 25,
+    "remaining_percent": 75,
+    "reset_unix": 1793910839,
+    "secondary": "unavailable",
+    "shared_account": true
+  },
+  "status": "LOCAL_ACCEPTANCE_MET_REMOTE_RELEASE_PENDING",
+  "stop_reason": "Finish exact candidate/main CI,canonical/tree/tag andmetadata proof;not yet counted complete"
+}

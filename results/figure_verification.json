@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "checks": 453,
+  "source_values": 48,
+  "svg_coordinates": 384,
+  "map_color_values": 12,
+  "hashes": 9,
+  "scope": "Individual-export arithmetic,actual SVG rectangles,map color bins and artifact hashes;nominal source cells are not physical parcels"
+}

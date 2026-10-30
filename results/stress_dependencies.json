@@ -1,0 +1,11 @@
+{
+  "status": "FROZEN_BEFORE_STRESS_OUTCOMES",
+  "parent_commit": "a92faa8b2c4441230d04590ed14fa92f2bf0ff2a",
+  "sha256": {
+    "src/stress.py": "fbade82ab0205935d6bbdb95dc17f9f1ca30cfc9d54fdddea4e274d15601abc0",
+    "src/verify_stress.py": "85a6d04c9ff16143728f9a22862c99f5790d6a3322dd830bbbef07112416506f",
+    "tests/test_stress.py": "d7859584a9d34c287453382ffb66eef7e48d74a4fd66588dacd756fbf0f476bb",
+    "results/frozen_dependencies.json": "c7dd740e65faa179c4cb630f214cbf89c0ff649b78c15513fd141d10e4f9ab9c"
+  },
+  "design": "Original protocol fixed1/7/30day blocks atmonth starts;newimplementation/checker/test hashes beforestress execution;core forecast freezeunchanged"
+}
