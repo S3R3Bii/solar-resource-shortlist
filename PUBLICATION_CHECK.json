@@ -1,7 +1,7 @@
 {
-  "timestamp_utc": "2026-10-30T18:09:06.125132+00:00",
+  "timestamp_utc": "2026-10-30T18:09:54.165781+00:00",
   "status": "PASS_BOUNDED_SCAN",
-  "files_checked": 47,
+  "files_checked": 49,
   "scope": "Exact staged Git index bytes; decompressed text; forbidden paths/extensions, high-confidence key and private machine path patterns; local Markdown links. Image/PDF contents require separate visual/source review. This is not universal secret detection.",
   "findings": [],
   "sha256": {
@@ -43,8 +43,10 @@
     "src/model.py": "41d0e921198bcafcf1ce2f5305a355931b2ff48d0c1d31e1a4898290adff1b5f",
     "src/prepare_inputs.py": "f662dacb5bef31c75829fcb3f67aaf7ca5910fca8b8e15b221f69a3b34b09508",
     "src/project_source.py": "48045636c059e8667849c619a03d17a7b929151d8bffa9874ba99b5e09647884",
+    "src/reproduce.py": "b95c435c6d3fd14fef720708d266dc7aa7c4539b40f654c74ee1084d2043bf43",
     "src/run_analysis.py": "2b49a67fd058c16ef2761b7b5cfaef2c0d266445a1446a44e284ddad20d57db6",
     "src/stress.py": "fbade82ab0205935d6bbdb95dc17f9f1ca30cfc9d54fdddea4e274d15601abc0",
+    "src/verify_canonical_git.py": "2f6a170317d1fae7038e43d81aa1212867433604cd5ce9ab8d7a2ac28bf2fd72",
     "src/verify_inputs.py": "54b142ad308ae3f8107efa19df946dc0a24823560106584858a2dbf23b325e87",
     "src/verify_results.py": "f148860e56ad6d2b82d85be2ed32464faa5cbe77105ced3969a0747b8e41aa83",
     "src/verify_source.py": "e3a3e7d34f8e75ac9889c3c38e6224c589f72980eab02020cd2c2d4a1a1364d6",
