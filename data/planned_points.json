@@ -1,0 +1,74 @@
+[
+  {
+    "id": "W01",
+    "cohort": "west",
+    "latitude": 32.5,
+    "longitude": -114.5
+  },
+  {
+    "id": "W02",
+    "cohort": "west",
+    "latitude": 32.5,
+    "longitude": -112.5
+  },
+  {
+    "id": "W03",
+    "cohort": "west",
+    "latitude": 34.5,
+    "longitude": -114.5
+  },
+  {
+    "id": "W04",
+    "cohort": "west",
+    "latitude": 34.5,
+    "longitude": -112.5
+  },
+  {
+    "id": "W05",
+    "cohort": "west",
+    "latitude": 36.5,
+    "longitude": -114.5
+  },
+  {
+    "id": "W06",
+    "cohort": "west",
+    "latitude": 36.5,
+    "longitude": -112.5
+  },
+  {
+    "id": "E01",
+    "cohort": "east",
+    "latitude": 32.5,
+    "longitude": -108.5
+  },
+  {
+    "id": "E02",
+    "cohort": "east",
+    "latitude": 32.5,
+    "longitude": -106.5
+  },
+  {
+    "id": "E03",
+    "cohort": "east",
+    "latitude": 34.5,
+    "longitude": -108.5
+  },
+  {
+    "id": "E04",
+    "cohort": "east",
+    "latitude": 34.5,
+    "longitude": -106.5
+  },
+  {
+    "id": "E05",
+    "cohort": "east",
+    "latitude": 36.5,
+    "longitude": -108.5
+  },
+  {
+    "id": "E06",
+    "cohort": "east",
+    "latitude": 36.5,
+    "longitude": -106.5
+  }
+]
