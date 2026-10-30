@@ -1,0 +1,703 @@
+{
+  "source": "NASA Langley POWER Daily API;CERES SYN1DEG",
+  "field": "ALLSKY_SFC_SW_DWN",
+  "source_rows": 100800,
+  "days_per_point": 8400,
+  "requests": [
+    {
+      "point": "W01",
+      "cohort": "west",
+      "format": "JSON",
+      "file": "W01-json.bin",
+      "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-114.5&latitude=32.5&start=20010101&end=20231231&format=JSON&time-standard=UTC",
+      "started_utc": "2026-10-30T17:56:48.506569+00:00",
+      "completed_utc": "2026-10-30T17:56:49.314012+00:00",
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json",
+        "Content-Length": "150680",
+        "Date": "Fri, 30 Oct 2026 17:56:49 GMT",
+        "x-amzn-RequestId": "140b4d8d-95b0-4d94-a36b-6c457d781bda"
+      },
+      "bytes": 150680,
+      "sha256": "25e3211c716bca3fd594f5f1f007cc09faa7ef90b2dd727bfdad0c5dc1e7a562",
+      "protocol_commit": "8413e7bf61bdc61efbcd011e9241c60b58aecccd",
+      "python": "3.12.14",
+      "error": null
+    },
+    {
+      "point": "W01",
+      "cohort": "west",
+      "format": "CSV",
+      "file": "W01-csv.bin",
+      "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-114.5&latitude=32.5&start=20010101&end=20231231&format=CSV&time-standard=UTC",
+      "started_utc": "2026-10-30T17:56:50.315391+00:00",
+      "completed_utc": "2026-10-30T17:56:50.888913+00:00",
+      "status": 200,
+      "headers": {
+        "Content-Type": "text/csv",
+        "Content-Length": "150321",
+        "Date": "Fri, 30 Oct 2026 17:56:50 GMT",
+        "x-amzn-RequestId": "764e4586-0943-4707-b5b9-9e6766fff01d"
+      },
+      "bytes": 150321,
+      "sha256": "20b9eaf4a469e5fa719ae22f59123e351671ee44d1f6a0ab8b7de9bf66d668a4",
+      "protocol_commit": "8413e7bf61bdc61efbcd011e9241c60b58aecccd",
+      "python": "3.12.14",
+      "error": null
+    },
+    {
+      "point": "W02",
+      "cohort": "west",
+      "format": "JSON",
+      "file": "W02-json.bin",
+      "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-112.5&latitude=32.5&start=20010101&end=20231231&format=JSON&time-standard=UTC",
+      "started_utc": "2026-10-30T17:56:51.889849+00:00",
+      "completed_utc": "2026-10-30T17:56:52.272153+00:00",
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json",
+        "Content-Length": "150678",
+        "Date": "Fri, 30 Oct 2026 17:56:52 GMT",
+        "x-amzn-RequestId": "e7d4f223-f7c7-4ecd-a593-8fe7ada8c695"
+      },
+      "bytes": 150678,
+      "sha256": "8bf5389d5c5423ec03d44b79ca09d8f6d6e686f021850e448966c56310bb7f84",
+      "protocol_commit": "8413e7bf61bdc61efbcd011e9241c60b58aecccd",
+      "python": "3.12.14",
+      "error": null
+    },
+    {
+      "point": "W02",
+      "cohort": "west",
+      "format": "CSV",
+      "file": "W02-csv.bin",
+      "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-112.5&latitude=32.5&start=20010101&end=20231231&format=CSV&time-standard=UTC",
+      "started_utc": "2026-10-30T17:56:53.273184+00:00",
+      "completed_utc": "2026-10-30T17:56:53.556920+00:00",
+      "status": 200,
+      "headers": {
+        "Content-Type": "text/csv",
+        "Content-Length": "150319",
+        "Date": "Fri, 30 Oct 2026 17:56:53 GMT",
+        "x-amzn-RequestId": "f6a1dd76-4dbe-40eb-8e9f-45a8452c3691"
+      },
+      "bytes": 150319,
+      "sha256": "33d206fb6b1113a7b453e4a52248ad30b5a46b1ade3de8e6d62b1c7272c0e67b",
+      "protocol_commit": "8413e7bf61bdc61efbcd011e9241c60b58aecccd",
+      "python": "3.12.14",
+      "error": null
+    },
+    {
+      "point": "W03",
+      "cohort": "west",
+      "format": "JSON",
+      "file": "W03-json.bin",
+      "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-114.5&latitude=34.5&start=20010101&end=20231231&format=JSON&time-standard=UTC",
+      "started_utc": "2026-10-30T17:56:54.558208+00:00",
+      "completed_utc": "2026-10-30T17:56:55.056660+00:00",
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json",
+        "Content-Length": "150555",
+        "Date": "Fri, 30 Oct 2026 17:56:54 GMT",
+        "x-amzn-RequestId": "9145fab6-e592-44a0-a495-651ba398c2ad"
+      },
+      "bytes": 150555,
+      "sha256": "2940afd3fad1fcbf68a31a3e08ce23e7df5cd32361ec9fe71b99f4a7c66a6050",
+      "protocol_commit": "8413e7bf61bdc61efbcd011e9241c60b58aecccd",
+      "python": "3.12.14",
+      "error": null
+    },
+    {
+      "point": "W03",
+      "cohort": "west",
+      "format": "CSV",
+      "file": "W03-csv.bin",
+      "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-114.5&latitude=34.5&start=20010101&end=20231231&format=CSV&time-standard=UTC",
+      "started_utc": "2026-10-30T17:56:56.057298+00:00",
+      "completed_utc": "2026-10-30T17:56:56.581348+00:00",
+      "status": 200,
+      "headers": {
+        "Content-Type": "text/csv",
+        "Content-Length": "150196",
+        "Date": "Fri, 30 Oct 2026 17:56:56 GMT",
+        "x-amzn-RequestId": "5cf6a9bd-c529-47f8-9321-802c42015a48"
+      },
+      "bytes": 150196,
+      "sha256": "a1c042a56192de8e97b8f9f145b005f09eed5ddde5f5fcba2114d54bd845dde2",
+      "protocol_commit": "8413e7bf61bdc61efbcd011e9241c60b58aecccd",
+      "python": "3.12.14",
+      "error": null
+    },
+    {
+      "point": "W04",
+      "cohort": "west",
+      "format": "JSON",
+      "file": "W04-json.bin",
+      "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-112.5&latitude=34.5&start=20010101&end=20231231&format=JSON&time-standard=UTC",
+      "started_utc": "2026-10-30T17:56:57.583157+00:00",
+      "completed_utc": "2026-10-30T17:56:58.117499+00:00",
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json",
+        "Content-Length": "150418",
+        "Date": "Fri, 30 Oct 2026 17:56:57 GMT",
+        "x-amzn-RequestId": "5f7f4a91-20d5-49e4-9431-68a14429b4c5"
+      },
+      "bytes": 150418,
+      "sha256": "4c06ef2ec2f77d944a1f5461d41c0cc60e9cf7d5c811764d79ad7abfc178552d",
+      "protocol_commit": "8413e7bf61bdc61efbcd011e9241c60b58aecccd",
+      "python": "3.12.14",
+      "error": null
+    },
+    {
+      "point": "W04",
+      "cohort": "west",
+      "format": "CSV",
+      "file": "W04-csv.bin",
+      "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-112.5&latitude=34.5&start=20010101&end=20231231&format=CSV&time-standard=UTC",
+      "started_utc": "2026-10-30T17:56:59.118614+00:00",
+      "completed_utc": "2026-10-30T17:56:59.661271+00:00",
+      "status": 200,
+      "headers": {
+        "Content-Type": "text/csv",
+        "Content-Length": "150059",
+        "Date": "Fri, 30 Oct 2026 17:56:59 GMT",
+        "x-amzn-RequestId": "cc55448b-3364-47dd-a076-885d479b60cf"
+      },
+      "bytes": 150059,
+      "sha256": "bc9421552e914b4cb9d1946e5f885bf9001882b1952eaaf7e3ed868f1acaafba",
+      "protocol_commit": "8413e7bf61bdc61efbcd011e9241c60b58aecccd",
+      "python": "3.12.14",
+      "error": null
+    },
+    {
+      "point": "W05",
+      "cohort": "west",
+      "format": "JSON",
+      "file": "W05-json.bin",
+      "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-114.5&latitude=36.5&start=20010101&end=20231231&format=JSON&time-standard=UTC",
+      "started_utc": "2026-10-30T17:57:00.662652+00:00",
+      "completed_utc": "2026-10-30T17:57:01.190926+00:00",
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json",
+        "Content-Length": "150376",
+        "Date": "Fri, 30 Oct 2026 17:57:01 GMT",
+        "x-amzn-RequestId": "53b2e7be-68c7-4dfa-86cc-34c5395a3c59"
+      },
+      "bytes": 150376,
+      "sha256": "c51f95fe4fe3ea5d654ae1c4b863eabde8b67b6c44262fcaa71a43c63a88eb28",
+      "protocol_commit": "8413e7bf61bdc61efbcd011e9241c60b58aecccd",
+      "python": "3.12.14",
+      "error": null
+    },
+    {
+      "point": "W05",
+      "cohort": "west",
+      "format": "CSV",
+      "file": "W05-csv.bin",
+      "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-114.5&latitude=36.5&start=20010101&end=20231231&format=CSV&time-standard=UTC",
+      "started_utc": "2026-10-30T17:57:02.192196+00:00",
+      "completed_utc": "2026-10-30T17:57:02.720920+00:00",
+      "status": 200,
+      "headers": {
+        "Content-Type": "text/csv",
+        "Content-Length": "150017",
+        "Date": "Fri, 30 Oct 2026 17:57:02 GMT",
+        "x-amzn-RequestId": "e28d8a5e-f4db-42a9-9073-04b26f729b88"
+      },
+      "bytes": 150017,
+      "sha256": "4ea4c7634e5fcc6554e19cb39b29adac2d11f399af000d3378c8881ab570f856",
+      "protocol_commit": "8413e7bf61bdc61efbcd011e9241c60b58aecccd",
+      "python": "3.12.14",
+      "error": null
+    },
+    {
+      "point": "W06",
+      "cohort": "west",
+      "format": "JSON",
+      "file": "W06-json.bin",
+      "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-112.5&latitude=36.5&start=20010101&end=20231231&format=JSON&time-standard=UTC",
+      "started_utc": "2026-10-30T17:57:03.721813+00:00",
+      "completed_utc": "2026-10-30T17:57:04.237026+00:00",
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json",
+        "Content-Length": "150249",
+        "Date": "Fri, 30 Oct 2026 17:57:04 GMT",
+        "x-amzn-RequestId": "f36ed5fa-ce2a-4f60-b994-6acea481112d"
+      },
+      "bytes": 150249,
+      "sha256": "60adf2bf5b79b043a7f99570a7ae1d5c93b2288e55c4ac6ea0f2b00fccbf51e1",
+      "protocol_commit": "8413e7bf61bdc61efbcd011e9241c60b58aecccd",
+      "python": "3.12.14",
+      "error": null
+    },
+    {
+      "point": "W06",
+      "cohort": "west",
+      "format": "CSV",
+      "file": "W06-csv.bin",
+      "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-112.5&latitude=36.5&start=20010101&end=20231231&format=CSV&time-standard=UTC",
+      "started_utc": "2026-10-30T17:57:05.237801+00:00",
+      "completed_utc": "2026-10-30T17:57:05.514065+00:00",
+      "status": 200,
+      "headers": {
+        "Content-Type": "text/csv",
+        "Content-Length": "149890",
+        "Date": "Fri, 30 Oct 2026 17:57:05 GMT",
+        "x-amzn-RequestId": "1cf2ce2a-148a-4a5d-b4ac-65517db5117a"
+      },
+      "bytes": 149890,
+      "sha256": "c0505ad344408bd79f61244e65131336a5075c64c84b3ae46922674eeea37756",
+      "protocol_commit": "8413e7bf61bdc61efbcd011e9241c60b58aecccd",
+      "python": "3.12.14",
+      "error": null
+    },
+    {
+      "point": "E01",
+      "cohort": "east",
+      "format": "JSON",
+      "file": "E01-json.bin",
+      "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-108.5&latitude=32.5&start=20010101&end=20231231&format=JSON&time-standard=UTC",
+      "started_utc": "2026-10-30T17:57:06.515603+00:00",
+      "completed_utc": "2026-10-30T17:57:07.033659+00:00",
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json",
+        "Content-Length": "150610",
+        "Date": "Fri, 30 Oct 2026 17:57:06 GMT",
+        "x-amzn-RequestId": "d3a2d0df-0e86-46b2-b1fb-ab6f249d210c"
+      },
+      "bytes": 150610,
+      "sha256": "46771e84ac48fb40b62a97da8cd29903466e02f9d0c5c0f7fe0fe2dc728f1b37",
+      "protocol_commit": "8413e7bf61bdc61efbcd011e9241c60b58aecccd",
+      "python": "3.12.14",
+      "error": null
+    },
+    {
+      "point": "E01",
+      "cohort": "east",
+      "format": "CSV",
+      "file": "E01-csv.bin",
+      "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-108.5&latitude=32.5&start=20010101&end=20231231&format=CSV&time-standard=UTC",
+      "started_utc": "2026-10-30T17:57:08.035489+00:00",
+      "completed_utc": "2026-10-30T17:57:08.552906+00:00",
+      "status": 200,
+      "headers": {
+        "Content-Type": "text/csv",
+        "Content-Length": "150251",
+        "Date": "Fri, 30 Oct 2026 17:57:08 GMT",
+        "x-amzn-RequestId": "3aab2b46-0436-494d-8ecc-9728bc2e9765"
+      },
+      "bytes": 150251,
+      "sha256": "2018f367f0415c21ca9b024f8dc930277bf803ad162c18a497088dfd0120a88f",
+      "protocol_commit": "8413e7bf61bdc61efbcd011e9241c60b58aecccd",
+      "python": "3.12.14",
+      "error": null
+    },
+    {
+      "point": "E02",
+      "cohort": "east",
+      "format": "JSON",
+      "file": "E02-json.bin",
+      "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-106.5&latitude=32.5&start=20010101&end=20231231&format=JSON&time-standard=UTC",
+      "started_utc": "2026-10-30T17:57:09.553879+00:00",
+      "completed_utc": "2026-10-30T17:57:09.933286+00:00",
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json",
+        "Content-Length": "150574",
+        "Date": "Fri, 30 Oct 2026 17:57:09 GMT",
+        "x-amzn-RequestId": "08583920-27a7-47aa-825c-997b1fc082e2"
+      },
+      "bytes": 150574,
+      "sha256": "b5c5ad1a7fc1032b5de7b8f61d559ce9bd0cc9125bd2b725f735523b846df7bc",
+      "protocol_commit": "8413e7bf61bdc61efbcd011e9241c60b58aecccd",
+      "python": "3.12.14",
+      "error": null
+    },
+    {
+      "point": "E02",
+      "cohort": "east",
+      "format": "CSV",
+      "file": "E02-csv.bin",
+      "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-106.5&latitude=32.5&start=20010101&end=20231231&format=CSV&time-standard=UTC",
+      "started_utc": "2026-10-30T17:57:10.934700+00:00",
+      "completed_utc": "2026-10-30T17:57:11.460999+00:00",
+      "status": 200,
+      "headers": {
+        "Content-Type": "text/csv",
+        "Content-Length": "150215",
+        "Date": "Fri, 30 Oct 2026 17:57:11 GMT",
+        "x-amzn-RequestId": "ca0a38de-138c-4e19-ae2f-7c7c56cacef9"
+      },
+      "bytes": 150215,
+      "sha256": "436ee210a2c720edc337510d394a5cc9b5ee24834f19dc5bac7b38486f68b099",
+      "protocol_commit": "8413e7bf61bdc61efbcd011e9241c60b58aecccd",
+      "python": "3.12.14",
+      "error": null
+    },
+    {
+      "point": "E03",
+      "cohort": "east",
+      "format": "JSON",
+      "file": "E03-json.bin",
+      "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-108.5&latitude=34.5&start=20010101&end=20231231&format=JSON&time-standard=UTC",
+      "started_utc": "2026-10-30T17:57:12.461966+00:00",
+      "completed_utc": "2026-10-30T17:57:12.978534+00:00",
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json",
+        "Content-Length": "150376",
+        "Date": "Fri, 30 Oct 2026 17:57:12 GMT",
+        "x-amzn-RequestId": "7411292e-3662-47c5-a7e4-f0057ca29446"
+      },
+      "bytes": 150376,
+      "sha256": "8e33fb2b1e6149894ee77c27cd91ba0e4aaff2c426c673e721876a6d71a03305",
+      "protocol_commit": "8413e7bf61bdc61efbcd011e9241c60b58aecccd",
+      "python": "3.12.14",
+      "error": null
+    },
+    {
+      "point": "E03",
+      "cohort": "east",
+      "format": "CSV",
+      "file": "E03-csv.bin",
+      "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-108.5&latitude=34.5&start=20010101&end=20231231&format=CSV&time-standard=UTC",
+      "started_utc": "2026-10-30T17:57:13.980007+00:00",
+      "completed_utc": "2026-10-30T17:57:14.513395+00:00",
+      "status": 200,
+      "headers": {
+        "Content-Type": "text/csv",
+        "Content-Length": "150017",
+        "Date": "Fri, 30 Oct 2026 17:57:14 GMT",
+        "x-amzn-RequestId": "6941e113-da8c-4bd6-800c-b9070b748a65"
+      },
+      "bytes": 150017,
+      "sha256": "a185ed2da9d993e20bc4e556eb4b525d544f56532e5de97b8be9e9db364f8d12",
+      "protocol_commit": "8413e7bf61bdc61efbcd011e9241c60b58aecccd",
+      "python": "3.12.14",
+      "error": null
+    },
+    {
+      "point": "E04",
+      "cohort": "east",
+      "format": "JSON",
+      "file": "E04-json.bin",
+      "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-106.5&latitude=34.5&start=20010101&end=20231231&format=JSON&time-standard=UTC",
+      "started_utc": "2026-10-30T17:57:15.515116+00:00",
+      "completed_utc": "2026-10-30T17:57:16.045338+00:00",
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json",
+        "Content-Length": "150510",
+        "Date": "Fri, 30 Oct 2026 17:57:15 GMT",
+        "x-amzn-RequestId": "f8dcf454-c842-405d-8ebe-7333f57260c3"
+      },
+      "bytes": 150510,
+      "sha256": "85376069de5ef59e3df7f63d6f1f4783004734f09de56b9380e5595f9d5fc33d",
+      "protocol_commit": "8413e7bf61bdc61efbcd011e9241c60b58aecccd",
+      "python": "3.12.14",
+      "error": null
+    },
+    {
+      "point": "E04",
+      "cohort": "east",
+      "format": "CSV",
+      "file": "E04-csv.bin",
+      "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-106.5&latitude=34.5&start=20010101&end=20231231&format=CSV&time-standard=UTC",
+      "started_utc": "2026-10-30T17:57:17.046928+00:00",
+      "completed_utc": "2026-10-30T17:57:17.434754+00:00",
+      "status": 200,
+      "headers": {
+        "Content-Type": "text/csv",
+        "Content-Length": "150151",
+        "Date": "Fri, 30 Oct 2026 17:57:17 GMT",
+        "x-amzn-RequestId": "578f61cb-9544-420b-9e12-92c0868c5db4"
+      },
+      "bytes": 150151,
+      "sha256": "b70955976f05301bf761e3b59d501f4457834ca14316680772da066d380225ab",
+      "protocol_commit": "8413e7bf61bdc61efbcd011e9241c60b58aecccd",
+      "python": "3.12.14",
+      "error": null
+    },
+    {
+      "point": "E05",
+      "cohort": "east",
+      "format": "JSON",
+      "file": "E05-json.bin",
+      "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-108.5&latitude=36.5&start=20010101&end=20231231&format=JSON&time-standard=UTC",
+      "started_utc": "2026-10-30T17:57:18.435612+00:00",
+      "completed_utc": "2026-10-30T17:57:18.968308+00:00",
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json",
+        "Content-Length": "150282",
+        "Date": "Fri, 30 Oct 2026 17:57:18 GMT",
+        "x-amzn-RequestId": "449e840a-5bf5-4252-850e-b20bc89cc844"
+      },
+      "bytes": 150282,
+      "sha256": "47dc353e95452badb5d8b25001f6d9131333849e57fd7e8a7ffd9c59e9b4192c",
+      "protocol_commit": "8413e7bf61bdc61efbcd011e9241c60b58aecccd",
+      "python": "3.12.14",
+      "error": null
+    },
+    {
+      "point": "E05",
+      "cohort": "east",
+      "format": "CSV",
+      "file": "E05-csv.bin",
+      "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-108.5&latitude=36.5&start=20010101&end=20231231&format=CSV&time-standard=UTC",
+      "started_utc": "2026-10-30T17:57:19.969700+00:00",
+      "completed_utc": "2026-10-30T17:57:20.470115+00:00",
+      "status": 200,
+      "headers": {
+        "Content-Type": "text/csv",
+        "Content-Length": "149923",
+        "Date": "Fri, 30 Oct 2026 17:57:20 GMT",
+        "x-amzn-RequestId": "bbd55816-bead-4242-8068-4bf6d9c422b5"
+      },
+      "bytes": 149923,
+      "sha256": "bb922d6a078b6c44c45efce174cf395bce1550d4de49f7ba335ad4489197dd34",
+      "protocol_commit": "8413e7bf61bdc61efbcd011e9241c60b58aecccd",
+      "python": "3.12.14",
+      "error": null
+    },
+    {
+      "point": "E06",
+      "cohort": "east",
+      "format": "JSON",
+      "file": "E06-json.bin",
+      "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-106.5&latitude=36.5&start=20010101&end=20231231&format=JSON&time-standard=UTC",
+      "started_utc": "2026-10-30T17:57:21.471858+00:00",
+      "completed_utc": "2026-10-30T17:57:21.709340+00:00",
+      "status": 200,
+      "headers": {
+        "Content-Type": "application/json",
+        "Content-Length": "150269",
+        "Date": "Fri, 30 Oct 2026 17:57:21 GMT",
+        "x-amzn-RequestId": "076369f6-80f9-4502-8874-e1ed30e2dfa3"
+      },
+      "bytes": 150269,
+      "sha256": "44ba5b2d9a997457bdb60efd9ad2384e07e832fe76a685c4f61cd55acefa1b09",
+      "protocol_commit": "8413e7bf61bdc61efbcd011e9241c60b58aecccd",
+      "python": "3.12.14",
+      "error": null
+    },
+    {
+      "point": "E06",
+      "cohort": "east",
+      "format": "CSV",
+      "file": "E06-csv.bin",
+      "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-106.5&latitude=36.5&start=20010101&end=20231231&format=CSV&time-standard=UTC",
+      "started_utc": "2026-10-30T17:57:22.710873+00:00",
+      "completed_utc": "2026-10-30T17:57:23.221177+00:00",
+      "status": 200,
+      "headers": {
+        "Content-Type": "text/csv",
+        "Content-Length": "149910",
+        "Date": "Fri, 30 Oct 2026 17:57:23 GMT",
+        "x-amzn-RequestId": "2d9f8b73-59af-4b7a-9836-d7c38b4d7d46"
+      },
+      "bytes": 149910,
+      "sha256": "bade92ade5e07a248e08e1e0d2c5655c573eedc926f28ee6363d34b7e3af5d59",
+      "protocol_commit": "8413e7bf61bdc61efbcd011e9241c60b58aecccd",
+      "python": "3.12.14",
+      "error": null
+    }
+  ],
+  "metadata_by_point": {
+    "W01": {
+      "api": {
+        "version": "v2.10.1",
+        "name": "POWER Daily API"
+      },
+      "sources": [
+        "SYN1DEG"
+      ],
+      "time_standard": "UTC",
+      "returned_longitude": "-114.5",
+      "returned_latitude": "32.5",
+      "source_unit": "W m-2",
+      "fill": "-999.0",
+      "rows": 8400
+    },
+    "W02": {
+      "api": {
+        "version": "v2.10.1",
+        "name": "POWER Daily API"
+      },
+      "sources": [
+        "SYN1DEG"
+      ],
+      "time_standard": "UTC",
+      "returned_longitude": "-112.5",
+      "returned_latitude": "32.5",
+      "source_unit": "W m-2",
+      "fill": "-999.0",
+      "rows": 8400
+    },
+    "W03": {
+      "api": {
+        "version": "v2.10.1",
+        "name": "POWER Daily API"
+      },
+      "sources": [
+        "SYN1DEG"
+      ],
+      "time_standard": "UTC",
+      "returned_longitude": "-114.5",
+      "returned_latitude": "34.5",
+      "source_unit": "W m-2",
+      "fill": "-999.0",
+      "rows": 8400
+    },
+    "W04": {
+      "api": {
+        "version": "v2.10.1",
+        "name": "POWER Daily API"
+      },
+      "sources": [
+        "SYN1DEG"
+      ],
+      "time_standard": "UTC",
+      "returned_longitude": "-112.5",
+      "returned_latitude": "34.5",
+      "source_unit": "W m-2",
+      "fill": "-999.0",
+      "rows": 8400
+    },
+    "W05": {
+      "api": {
+        "version": "v2.10.1",
+        "name": "POWER Daily API"
+      },
+      "sources": [
+        "SYN1DEG"
+      ],
+      "time_standard": "UTC",
+      "returned_longitude": "-114.5",
+      "returned_latitude": "36.5",
+      "source_unit": "W m-2",
+      "fill": "-999.0",
+      "rows": 8400
+    },
+    "W06": {
+      "api": {
+        "version": "v2.10.1",
+        "name": "POWER Daily API"
+      },
+      "sources": [
+        "SYN1DEG"
+      ],
+      "time_standard": "UTC",
+      "returned_longitude": "-112.5",
+      "returned_latitude": "36.5",
+      "source_unit": "W m-2",
+      "fill": "-999.0",
+      "rows": 8400
+    },
+    "E01": {
+      "api": {
+        "version": "v2.10.1",
+        "name": "POWER Daily API"
+      },
+      "sources": [
+        "SYN1DEG"
+      ],
+      "time_standard": "UTC",
+      "returned_longitude": "-108.5",
+      "returned_latitude": "32.5",
+      "source_unit": "W m-2",
+      "fill": "-999.0",
+      "rows": 8400
+    },
+    "E02": {
+      "api": {
+        "version": "v2.10.1",
+        "name": "POWER Daily API"
+      },
+      "sources": [
+        "SYN1DEG"
+      ],
+      "time_standard": "UTC",
+      "returned_longitude": "-106.5",
+      "returned_latitude": "32.5",
+      "source_unit": "W m-2",
+      "fill": "-999.0",
+      "rows": 8400
+    },
+    "E03": {
+      "api": {
+        "version": "v2.10.1",
+        "name": "POWER Daily API"
+      },
+      "sources": [
+        "SYN1DEG"
+      ],
+      "time_standard": "UTC",
+      "returned_longitude": "-108.5",
+      "returned_latitude": "34.5",
+      "source_unit": "W m-2",
+      "fill": "-999.0",
+      "rows": 8400
+    },
+    "E04": {
+      "api": {
+        "version": "v2.10.1",
+        "name": "POWER Daily API"
+      },
+      "sources": [
+        "SYN1DEG"
+      ],
+      "time_standard": "UTC",
+      "returned_longitude": "-106.5",
+      "returned_latitude": "34.5",
+      "source_unit": "W m-2",
+      "fill": "-999.0",
+      "rows": 8400
+    },
+    "E05": {
+      "api": {
+        "version": "v2.10.1",
+        "name": "POWER Daily API"
+      },
+      "sources": [
+        "SYN1DEG"
+      ],
+      "time_standard": "UTC",
+      "returned_longitude": "-108.5",
+      "returned_latitude": "36.5",
+      "source_unit": "W m-2",
+      "fill": "-999.0",
+      "rows": 8400
+    },
+    "E06": {
+      "api": {
+        "version": "v2.10.1",
+        "name": "POWER Daily API"
+      },
+      "sources": [
+        "SYN1DEG"
+      ],
+      "time_standard": "UTC",
+      "returned_longitude": "-106.5",
+      "returned_latitude": "36.5",
+      "source_unit": "W m-2",
+      "fill": "-999.0",
+      "rows": 8400
+    }
+  },
+  "projection_sha256": "d194b7dcd04cb3da9a2f2f5f1434f1f5b663351e0ccb258a132feb3d7b93c214",
+  "unit_conversion": {
+    "native": "Daily mean W m-2",
+    "derived": "kWh/m2/day",
+    "factor_exact": "3/125",
+    "rationale": "24hours per UTC day/1000W per kW;UNIT_BINDING.md documents pre-score confirmation"
+  },
+  "attribution": "NASA Langley Research Center POWER project,funded through NASA Earth Science Division;Daily APIv2.10.1;accessed30October2026",
+  "limits": "Requested grid points,not independent measured stations or physical parcels;current retrospective source,not original delivery vintages;no plant output/finance/climate-causality claim"
+}
