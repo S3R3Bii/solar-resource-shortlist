@@ -1,0 +1,170 @@
+[
+  {
+    "point": "W01",
+    "cohort": "west",
+    "format": "JSON",
+    "file": "W01-json.bin",
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-114.5&latitude=32.5&start=20010101&end=20231231&format=JSON&time-standard=UTC"
+  },
+  {
+    "point": "W01",
+    "cohort": "west",
+    "format": "CSV",
+    "file": "W01-csv.bin",
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-114.5&latitude=32.5&start=20010101&end=20231231&format=CSV&time-standard=UTC"
+  },
+  {
+    "point": "W02",
+    "cohort": "west",
+    "format": "JSON",
+    "file": "W02-json.bin",
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-112.5&latitude=32.5&start=20010101&end=20231231&format=JSON&time-standard=UTC"
+  },
+  {
+    "point": "W02",
+    "cohort": "west",
+    "format": "CSV",
+    "file": "W02-csv.bin",
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-112.5&latitude=32.5&start=20010101&end=20231231&format=CSV&time-standard=UTC"
+  },
+  {
+    "point": "W03",
+    "cohort": "west",
+    "format": "JSON",
+    "file": "W03-json.bin",
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-114.5&latitude=34.5&start=20010101&end=20231231&format=JSON&time-standard=UTC"
+  },
+  {
+    "point": "W03",
+    "cohort": "west",
+    "format": "CSV",
+    "file": "W03-csv.bin",
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-114.5&latitude=34.5&start=20010101&end=20231231&format=CSV&time-standard=UTC"
+  },
+  {
+    "point": "W04",
+    "cohort": "west",
+    "format": "JSON",
+    "file": "W04-json.bin",
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-112.5&latitude=34.5&start=20010101&end=20231231&format=JSON&time-standard=UTC"
+  },
+  {
+    "point": "W04",
+    "cohort": "west",
+    "format": "CSV",
+    "file": "W04-csv.bin",
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-112.5&latitude=34.5&start=20010101&end=20231231&format=CSV&time-standard=UTC"
+  },
+  {
+    "point": "W05",
+    "cohort": "west",
+    "format": "JSON",
+    "file": "W05-json.bin",
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-114.5&latitude=36.5&start=20010101&end=20231231&format=JSON&time-standard=UTC"
+  },
+  {
+    "point": "W05",
+    "cohort": "west",
+    "format": "CSV",
+    "file": "W05-csv.bin",
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-114.5&latitude=36.5&start=20010101&end=20231231&format=CSV&time-standard=UTC"
+  },
+  {
+    "point": "W06",
+    "cohort": "west",
+    "format": "JSON",
+    "file": "W06-json.bin",
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-112.5&latitude=36.5&start=20010101&end=20231231&format=JSON&time-standard=UTC"
+  },
+  {
+    "point": "W06",
+    "cohort": "west",
+    "format": "CSV",
+    "file": "W06-csv.bin",
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-112.5&latitude=36.5&start=20010101&end=20231231&format=CSV&time-standard=UTC"
+  },
+  {
+    "point": "E01",
+    "cohort": "east",
+    "format": "JSON",
+    "file": "E01-json.bin",
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-108.5&latitude=32.5&start=20010101&end=20231231&format=JSON&time-standard=UTC"
+  },
+  {
+    "point": "E01",
+    "cohort": "east",
+    "format": "CSV",
+    "file": "E01-csv.bin",
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-108.5&latitude=32.5&start=20010101&end=20231231&format=CSV&time-standard=UTC"
+  },
+  {
+    "point": "E02",
+    "cohort": "east",
+    "format": "JSON",
+    "file": "E02-json.bin",
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-106.5&latitude=32.5&start=20010101&end=20231231&format=JSON&time-standard=UTC"
+  },
+  {
+    "point": "E02",
+    "cohort": "east",
+    "format": "CSV",
+    "file": "E02-csv.bin",
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-106.5&latitude=32.5&start=20010101&end=20231231&format=CSV&time-standard=UTC"
+  },
+  {
+    "point": "E03",
+    "cohort": "east",
+    "format": "JSON",
+    "file": "E03-json.bin",
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-108.5&latitude=34.5&start=20010101&end=20231231&format=JSON&time-standard=UTC"
+  },
+  {
+    "point": "E03",
+    "cohort": "east",
+    "format": "CSV",
+    "file": "E03-csv.bin",
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-108.5&latitude=34.5&start=20010101&end=20231231&format=CSV&time-standard=UTC"
+  },
+  {
+    "point": "E04",
+    "cohort": "east",
+    "format": "JSON",
+    "file": "E04-json.bin",
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-106.5&latitude=34.5&start=20010101&end=20231231&format=JSON&time-standard=UTC"
+  },
+  {
+    "point": "E04",
+    "cohort": "east",
+    "format": "CSV",
+    "file": "E04-csv.bin",
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-106.5&latitude=34.5&start=20010101&end=20231231&format=CSV&time-standard=UTC"
+  },
+  {
+    "point": "E05",
+    "cohort": "east",
+    "format": "JSON",
+    "file": "E05-json.bin",
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-108.5&latitude=36.5&start=20010101&end=20231231&format=JSON&time-standard=UTC"
+  },
+  {
+    "point": "E05",
+    "cohort": "east",
+    "format": "CSV",
+    "file": "E05-csv.bin",
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-108.5&latitude=36.5&start=20010101&end=20231231&format=CSV&time-standard=UTC"
+  },
+  {
+    "point": "E06",
+    "cohort": "east",
+    "format": "JSON",
+    "file": "E06-json.bin",
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-106.5&latitude=36.5&start=20010101&end=20231231&format=JSON&time-standard=UTC"
+  },
+  {
+    "point": "E06",
+    "cohort": "east",
+    "format": "CSV",
+    "file": "E06-csv.bin",
+    "url": "https://power.larc.nasa.gov/api/temporal/daily/point?parameters=ALLSKY_SFC_SW_DWN&community=SB&longitude=-106.5&latitude=36.5&start=20010101&end=20231231&format=CSV&time-standard=UTC"
+  }
+]
